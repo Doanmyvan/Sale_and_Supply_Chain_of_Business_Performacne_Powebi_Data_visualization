@@ -1,11 +1,11 @@
-📦 Sales & Supply Chain Performance Dashboard (Power BI)
+# 📦 Sales & Supply Chain Performance Dashboard (Power BI)
 
-📌 Project Overview
+## 📌 Project Overview
 
 This project presents an interactive Power BI dashboard designed to monitor and analyze Sales and Supply Chain business performance.
 The visualization enables stakeholders to identify trends, optimize operations, and make data-driven decisions across sales, inventory, and logistics.
 
-🎯 Objectives
+## 🎯 Objectives
 
 - Track sales revenue, order volumes, and profitability.
 - Monitor supply chain efficiency (Average shipping day, return rate, lead times).
@@ -13,7 +13,7 @@ The visualization enables stakeholders to identify trends, optimize operations, 
 - Detect bottlenecks and highlight improvement opportunities.
 - Provide interactive drill-downs for deeper insights.
 
-📊 Dashboard Features
+## 📊 Dashboard Features
 
 - KPI Cards: Total sales, gross margin, average shipping day, return rate/value, ontime delivery rate. 
 - Sales Trends: revenue, profit margin and order volumes monthly/yearly 
@@ -24,13 +24,13 @@ The visualization enables stakeholders to identify trends, optimize operations, 
 - Operation Performance: Delivery time affect to return rate, regional profit volume, the relation of order number by region and weekdays
 Interactive Filters: Date, region, product category, customer segment, ship mode slicers.
 
-🛠️ Tools & Technologies
+## 🛠️ Tools & Technologies
 
 - Power BI Desktop – for visualization and data modeling.
 - Excel/CSV – sales and supply chain records.
 - DAX – for calculated KPIs (inventory turnover, on-time delivery %, etc.).
 
-🔍 Key Insight: 
+## 🔍 Key Insight: 
 
 1️⃣Between 2014 and 2017, the company experienced consistent revenue growth; however, profit margins remained low due to high operational costs, particularly expenses related to furniture, such as tables and chairs, as well as phone equipment.
 
@@ -41,7 +41,7 @@ Interactive Filters: Date, region, product category, customer segment, ship mode
 
 4️⃣The company implemented an effective cross-selling strategy, resulting in over 95% of customers purchasing multiple products.
 
- ✒️ Data-driven action plan:
+ ## ✒️ Data-driven action plan:
  
 💡Reduce high costs in furniture and equipment to improve profit margins despite revenue growth.
 
@@ -51,13 +51,13 @@ Interactive Filters: Date, region, product category, customer segment, ship mode
 
 💡 Expand cross-selling efforts using data-driven product bundling and personalized offers.
 
-📸 Full Dashboard View
+## 📸 Full Dashboard View
 ![20250715-183923](https://github.com/user-attachments/assets/e01debfc-47d0-4ad3-8e7e-ccd481b0d4b4)
 ![20250715-184051](https://github.com/user-attachments/assets/22503741-7f6a-4037-bbb5-6b72e358fea0)
 ![20250715-184128](https://github.com/user-attachments/assets/1e7110f7-35b9-404d-ad17-153eefccc079)
 
 
-📂 Repository Structure
+## 📂 Repository Structure
 
 📦 Sales-SupplyChain-Performance
 
