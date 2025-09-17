@@ -55,12 +55,3 @@ Interactive Filters: Date, region, product category, customer segment, ship mode
 ![20250715-183923](https://github.com/user-attachments/assets/e01debfc-47d0-4ad3-8e7e-ccd481b0d4b4)
 ![20250715-184051](https://github.com/user-attachments/assets/22503741-7f6a-4037-bbb5-6b72e358fea0)
 ![20250715-184128](https://github.com/user-attachments/assets/1e7110f7-35b9-404d-ad17-153eefccc079)
-
- 
- ┃ ┣ operation_overview.png
- 
- ┃ ┣ Sale_prediction.png
- 
- ┃ ┗ Sale_details_table.png
- 
- ┗ 📜 README.md
