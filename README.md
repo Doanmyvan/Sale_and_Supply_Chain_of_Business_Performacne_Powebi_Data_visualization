@@ -56,26 +56,6 @@ Interactive Filters: Date, region, product category, customer segment, ship mode
 ![20250715-184051](https://github.com/user-attachments/assets/22503741-7f6a-4037-bbb5-6b72e358fea0)
 ![20250715-184128](https://github.com/user-attachments/assets/1e7110f7-35b9-404d-ad17-153eefccc079)
 
-
-## 📂 Repository Structure
-
-📦 Sales-SupplyChain-Performance
-
- ┣ 📊 dashboard/
- 
- ┃ ┗ Sales_SupplyChain_Performance.pbix   # Power BI dashboard file
- 
- ┣ 📑 data/
- 
- ┃ ┗ sales_supplychain_sample.csv         # Sample dataset
- 
- ┣ 📸 screenshots/
- 
- ┃ ┣ Sale_overview.png
- 
- ┃ ┣ Product_summary.png
- 
- ┃ ┣ Customer_summary.png
  
  ┃ ┣ operation_overview.png
  
