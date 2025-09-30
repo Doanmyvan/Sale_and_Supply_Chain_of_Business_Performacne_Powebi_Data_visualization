@@ -2,8 +2,9 @@
 
 ## 📌 Project Overview
 
-This project presents an interactive Power BI dashboard designed to monitor and analyze Sales and Supply Chain business performance.
-The visualization enables stakeholders to identify trends, optimize operations, and make data-driven decisions across sales, inventory, and logistics.
+- This project presents an interactive **analysis dashboard** designed to monitor and analyze Sales and Supply Chain performance of a diversified enterprise by **analyzing +10,000 recorded orders**.
+- The visualization enables stakeholders to identify trends, optimize operations, and make data-driven decisions across sales, inventory, and logistics.
+- Recommendation to **improve customer purchase experience and total profitability of business**. 
 
 ## 🎯 Objectives
 
@@ -22,7 +23,7 @@ The visualization enables stakeholders to identify trends, optimize operations, 
 - Customer performance: return customer/return order rate by customer segment, Retention rate,... 
 - Regional & Product Analysis: Sales by geography and product category.
 - Operation Performance: Delivery time affect to return rate, regional profit volume, the relation of order number by region and weekdays
-Interactive Filters: Date, region, product category, customer segment, ship mode slicers.
+- Interactive Filters: Date, region, product category, customer segment, ship mode slicers.
 
 ## 🛠️ Tools & Technologies
 
@@ -32,24 +33,19 @@ Interactive Filters: Date, region, product category, customer segment, ship mode
 
 ## 🔍 Key Insight: 
 
-1️⃣Between 2014 and 2017, the company experienced consistent revenue growth; however, profit margins remained low due to high operational costs, particularly expenses related to furniture, such as tables and chairs, as well as phone equipment.
-
-2️⃣The Western region generated the highest sales volume and also recorded the highest return rate, 15% of total orders in that area, despite having shorter average delivery times compared to other regions.
-
-
-3️⃣ In 2017, the company served a total of 793 customers, achieving a remarkable retention rate of 99.4%. This translated to an average profit of $361 per customer. The Consumer segment accounted for the largest share of total business sales.
-
-4️⃣The company implemented an effective cross-selling strategy, resulting in over 95% of customers purchasing multiple products.
+1. Between 2014 and 2017, the company experienced consistent revenue growth; however, profit margins remained low due to high operational costs, particularly expenses related to furniture, such as tables and chairs, as well as phone equipment.
+2. the "table" had the second-highest product return rate (9%) and generated negative profit
+3. **The Western region** generated the highest sales volume and also recorded the **highest return rate**, 15% of total orders in that area, despite having **the shortest average delivery times** compared to other regions.
+4. In 2017, the company served a total of 793 customers, achieving a remarkable retention rate of 99.4%. This translated to an average profit of $361 per customer. The Consumer segment accounted for the largest share of total business sales.
+5. The company implemented an effective cross-selling strategy, resulting in over 95% of customers purchasing multiple products.
 
  ## ✒️ Data-driven action plan:
  
-💡Reduce high costs in furniture and equipment to improve profit margins despite revenue growth.
-
-💡Investigate high return rates in the West region to enhance product and service quality.
-
-💡Capitalize on strong retention and Consumer segment dominance with targeted loyalty strategies.
-
-💡 Expand cross-selling efforts using data-driven product bundling and personalized offers.
+1. Reduce high costs in furniture and equipment to improve profit margins despite revenue growth.
+2. **Consider to remove “table” from product list.**
+3. **Investigate high return rates in the West region to enhance product and service quality.**
+4. Capitalize on strong retention and Consumer segment dominance with targeted loyalty strategies.
+5. Expand cross-selling efforts using data-driven product bundling and personalized offers.
 
 ## 📸 Full Dashboard View
 ![20250715-183923](https://github.com/user-attachments/assets/e01debfc-47d0-4ad3-8e7e-ccd481b0d4b4)
